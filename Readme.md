@@ -74,10 +74,10 @@ pip install pandas numpy scikit-learn nltk textblob vaderSentiment afinn matplot
 
 Analisis dilakukan dalam notebook Jupyter yang terpisah untuk setiap peristiwa bencana:
 
-- `haiti_fix*.ipynb` - Analisis gempa Haiti
-- `croatia_fix*.ipynb` - Analisis gempa Kroasia
-- `catania_fix` - Analisis banjir Catania
-- `eu_fix*.ipynb` - Analisis banjir Eropa Tengah
+- `haiti_fix.ipynb` - Analisis gempa Haiti
+- `croatia_fix.ipynb` - Analisis gempa Kroasia
+- `catania_fix.ipynb` - Analisis banjir Catania
+- `eu_fix.ipynb` - Analisis banjir Eropa Tengah
 
 Setiap notebook mencakup seluruh proses mulai dari pra-pemrosesan data hingga evaluasi model.
 
