@@ -81,6 +81,8 @@ Analisis dilakukan dalam notebook Jupyter yang terpisah untuk setiap peristiwa b
 
 Setiap notebook mencakup seluruh proses mulai dari pra-pemrosesan data hingga evaluasi model.
 
+Dalam setiap notebook terdapat proses membaca dataset, pada file ini dataset tidak dicantumkan karena disediakan secara terpisah 
+
 ## Hasil
 
 Analisis ini menghasilkan klasifikasi sentimen serta metrik evaluasi untuk setiap peristiwa bencana menggunakan berbagai pendekatan analisis sentimen dan fungsi kernel SVM.
